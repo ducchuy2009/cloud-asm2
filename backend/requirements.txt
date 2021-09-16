@@ -1,0 +1,8 @@
+autopep8
+fastapi-pagination
+pydantic
+python-dotenv
+SQLAlchemy
+starlette
+psycopg2-binary==2.8.6
+sqlalchemy-json==0.4.0
